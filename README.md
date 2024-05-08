@@ -1,10 +1,19 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto Playground Functions
+
+Neste projeto desenvolvi funções responsáveis por resolver problemas pré-determinados de comparações com retornos booleanos, cálculos matemáticos, quebra de frases, busca por letras (`strings`), entre outros, utilizando:
+
+* Operações Aritméticas
+* Operações Lógicas
+* Operações Condicionais
+* Operações com `strings`
+
+Ao todo foram 13 funções criadas.
+
+## Tecnologias Utilizadas
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+## Arquivos criados por mim:
+
+* src/challenges.js
+* src/challenges2.js
